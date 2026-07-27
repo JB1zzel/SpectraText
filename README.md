@@ -1,6 +1,8 @@
 # SpectraText
 A text reading program for Spectranext
 
+see it in action at https://jb1zzel.github.io/z88/
+
 Simple text reader. Looks in the directory and lists out all text files.
 Select a text file and view it.
 
